@@ -1,0 +1,63 @@
+.sms-container,.sms-panel{padding:0.5em 16px;border-radius: 4px;}.sms-panel{margin-top:16px;margin-bottom:16px}
+.sms-green,.sms-hover-green:hover{color:#fff!important;background-color:#4CAF50!important}
+.sms-yellow,.sms-hover-yellow:hover{color:#fff!important;background-color:#F4B400!important}
+.sms-red,.sms-hover-red:hover{color:#fff!important;background-color:#f44336!important}
+.sms-blue,.sms-hover-blue:hover{color:#fff!important;background-color:#2196F3!important}
+.sms-grey,.sms-hover-grey:hover,.sms-gray,.sms-hover-gray:hover{color:#000!important;background-color:#9e9e9e!important}
+.sms-bar{width:100%;overflow:hidden}.sms-center .sms-bar{display:inline-block;width:auto}
+.sms-light-blue,.sms-hover-light-blue:hover{color:#000!important;background-color:#e0edf4!important}
+.sms-light-green,.sms-hover-light-green:hover{color:#000!important;background-color:#f0f8e6!important}
+.sms-light-red,.sms-hover-light-red:hover{color:#000!important;background-color:#feeef5!important}
+.sms-light-black,.sms-hover-light-black:hover{color:#000!important;background-color:#222222!important}
+.sms-left-align{text-align:left!important}.sms-right-align{text-align:right!important}.sms-justify{text-align:justify!important}.sms-center{text-align:center!important}
+.center-screen {
+  display: flex;
+  flex-direction: column;
+  /*justify-content: center;*/
+  align-items: center;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.header-font{
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-weight: bold;
+	color: #fff!important;
+}
+
+.button1 {
+  background-color: #4CAF50; /* Green */
+  border: 20px;
+  border-radius: 4px;
+  color: #222;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /**font-weight: bold;*/
+}
+
+.button2 {
+  background-color: #222;
+  border: 2px solid #4CAF50;
+  border-radius: 4px;
+  color: #4CAF50;
+  padding: 13px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#label-container {
+	/*border: 2px solid #4CAF50;
+	border-radius: 4px;*/
+	color: #4CAF50;
+  	align-items: center;
+	padding-top: 20px;
+  	padding-bottom: 10px;
+  	align-content: center;
+  	text-align: center;
+}
